@@ -4,10 +4,10 @@
   --font-family-monospace: monospace;
   --base-color: #ffffff;
   --base-offset-color: #eaeaea;
-  --highlight-color: #00DDBB;
+  --highlight-color: #482880;
   --heading-color: #1c1b1d;
   --text-color: #4e5157;
-  --dot-color: #00DDBB; }
+  --dot-color: #482880; }
 
 body, html {
   margin: 0;
