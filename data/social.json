@@ -1,0 +1,50 @@
+{
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/LeoDanielGames",
+      "image": "images/social/twitter.svg"
+    },
+    {
+      "name": "Zap",
+      "url": "https://chat.whatsapp.com/JlmMh6yp0Yb802Byu5Y720",
+      "image": "images/social/twitter.svg"
+    },
+    {
+      "name": "Twitch",
+      "url": "https://www.twitch.tv/leodanielgames",
+      "image": "images/social/twitter.svg"
+    },
+    {
+      "name": "E-mail",
+      "url": "leodanialves@gmail.com",
+      "image": "images/social/twitter.svg"
+    },
+    {
+      "name": "Discord",
+      "url": "https://discord.gg/C4Nh4ZPwjc",
+      "image": "images/social/twitter.svg"
+    },
+    {
+      "name": "Youtube",
+      "url": "https://www.youtube.com/channel/UCNnx4KmhGKg_Q5k7TZxwdmg",
+      "image": "images/social/twitter.svg"
+    },
+    {
+      "name": "Only Fans",
+      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "image": "images/social/twitter.svg"
+    },
+    {
+      "name": "Tiktok",
+      "url": "https://vm.tiktok.com/ZMLhhvSyC/",
+      "image": "images/social/twitter.svg"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/leodanielgames/",
+      "image": "images/social/twitter.svg"
+    }
+  ]
+}
+
