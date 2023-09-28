@@ -1,6 +1,6 @@
 :root {
   --font-family-heading: 'Poppins', sans-serif;
-  --font-family-paragraph: Helvetica, sans-serif;
+  --font-family-paragraph: 'Helvetica', sans-serif;
   --font-family-monospace: monospace;
   --base-color: #ffffff;
   --base-offset-color: #eaeaea;
@@ -296,7 +296,8 @@ ul {
         font-size: 52px;
         line-height: 58px; } }
   .summary .summary-description {
-    width: 80%; }
+    width: 80%;
+    line-height: 1.5; }
 
 .author {
   margin-top: 30px;
@@ -378,6 +379,10 @@ ul.pagination {
       line-height: 10px;
       margin-bottom: 2px;
       vertical-align: middle; }
+
+.view-more {
+  font-size: 18px;
+  font-weight: bold; }
 
 .menu-main {
   display: none;
