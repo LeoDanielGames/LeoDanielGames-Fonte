@@ -11,7 +11,8 @@ menu:
 
 # Powerbank Baseus 20W 30000mAh Iphone
 
-<img src="../../images/sale0001.jpeg" alt="Baseus" width="150"/>
+<img src="images/promos/sale0001.jpeg" alt="Baseus" width="150"/>
+
 
 ## Preço
 ### R$ 157,43
