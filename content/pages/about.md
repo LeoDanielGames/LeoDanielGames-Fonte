@@ -1,6 +1,6 @@
 ---
 title: 'Sobre'
-image: images/idoso.png
+image: images/idoso.jpg
 url: "about"
 menu:
   main:
